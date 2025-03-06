@@ -1,0 +1,6 @@
+dotenv
+pg8000
+pandas
+kagglehub[pandas-datasets]
+boto3
+feast
